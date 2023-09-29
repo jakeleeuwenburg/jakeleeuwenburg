@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data structures and algorithms to enhance my ability to code.
 - 💞️ I’m looking to collaborate on embedded systems projects that require coding applications
 - 📫 How to reach me, 
--        Email: JLeeuwen@calpoly.edu 
+-        Email: Jakesleeuwenburg@gmail.com  
 - or
 -        Phone: 636-692-1964 
 
